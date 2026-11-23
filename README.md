@@ -4,6 +4,7 @@ Short films used by demo stores. Footage from Pexels (free to use under the Pexe
 
 | file | source | by |
 |---|---|---|
+| marco/hero.mp4 | https://www.pexels.com/video/9880883/ | cottonbro |
 | marco/story.mp4 | https://www.pexels.com/video/9880954/ | cottonbro |
 | marco/black.mp4 | https://www.pexels.com/video/9880978/ | cottonbro |
 | marco/footer.mp4 | https://www.pexels.com/video/9880869/ | cottonbro |
